@@ -1,0 +1,67 @@
+_repo: The-Valley-of-Fear_3289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Conan Doyle, Arthur, Sir
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: "The Valley of Fear is the fourth and final Sherlock Holmes novel by\
+  \ Sir Arthur Conan Doyle. It is loosely based on the Molly Maguires and Pinkerton\
+  \ agent James McParland. The story was first published in the Strand Magazine between\
+  \ September 1914 and May 1915. The first book edition was copyrighted in 1914, and\
+  \ it was first published by George H. Doran Company in New York on 27 February 1915,\
+  \ and illustrated by Arthur I. Keller.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3289'
+  wikidata: Q863438
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Private investigators -- England -- Fiction'
+- GITenberg
+title: The Valley of Fear
+url: http://www.gutenberg.org/ebooks/3289
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D9%88%D8%AD%D8%B4%D8%AA
+- https://commons.wikimedia.org/wiki/Category:The_Valley_of_Fear
+- https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B6%D0%B0%D1%85%D1%83
+- https://ja.wikipedia.org/wiki/%E6%81%90%E6%80%96%E3%81%AE%E8%B0%B7
+- https://pt.wikipedia.org/wiki/The_Valley_of_Fear
+- https://es.wikipedia.org/wiki/El_valle_del_terror
+- https://en.wikipedia.org/wiki/The_Valley_of_Fear
+- https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D1%83%D0%B6%D0%B0%D1%81%D0%B0
+- https://ro.wikipedia.org/wiki/Valea_terorii
+- https://ko.wikipedia.org/wiki/%EA%B3%B5%ED%8F%AC%EC%9D%98_%EA%B3%84%EA%B3%A1
+- https://et.wikipedia.org/wiki/Hirmu_org
+- https://fr.wikipedia.org/wiki/La_Vall%C3%A9e_de_la_peur
+- https://sh.wikipedia.org/wiki/The_Valley_of_Fear
+- https://zh.wikipedia.org/wiki/%E6%81%90%E6%80%96%E8%B0%B7_(%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF)
+- https://nah.wikipedia.org/wiki/The_Valley_of_Fear
+- https://pl.wikipedia.org/wiki/Dolina_trwogi
+- https://da.wikipedia.org/wiki/Frygtens_Dal
+- https://sv.wikipedia.org/wiki/Fasans_dal
+- https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%B8%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%A2
+- https://mk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%B2%D0%BE%D1%82
+- https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AE%D9%88%D9%81
+- https://nl.wikipedia.org/wiki/De_vallei_der_verschrikking
+- https://de.wikipedia.org/wiki/Das_Tal_der_Angst
+- https://ml.wikipedia.org/wiki/%E0%B4%AD%E0%B5%80%E0%B4%A4%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%A4%E0%B4%BE%E0%B4%B4%E0%B5%8D%E2%80%8C%E0%B4%B5%E0%B4%B0
+- https://bg.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0
+- https://it.wikipedia.org/wiki/La_valle_della_paura
+- https://tr.wikipedia.org/wiki/Korku_Vadisi
+- https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%A7_%D7%94%D7%A4%D7%97%D7%93
