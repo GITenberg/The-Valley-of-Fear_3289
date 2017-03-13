@@ -1,5 +1,8 @@
 _repo: The-Valley-of-Fear_3289
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -18,6 +21,8 @@ description: "The Valley of Fear is the fourth and final Sherlock Holmes novel b
   \ September 1914 and May 1915. The first book edition was copyrighted in 1914, and\
   \ it was first published by George H. Doran Company in New York on 27 February 1915,\
   \ and illustrated by Arthur I. Keller.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3289#The-Valley-of-Fear
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2002-06-01'
 gutenberg_type: Text
